@@ -14,3 +14,4 @@ python archivos.py
 mysql --host=192.168.x.y --user=root --password=mios --port=3306 agenda_telefonica < query.sql
 python mysql.py
 ```
+
